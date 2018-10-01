@@ -1,1 +1,7 @@
-Meu primeiro sistema no git atualizado sddsdasd
+Meu segundo sistema no GIT
+
+Alteração no readme para descrever melhor meu sistema.
+
+alteração feita no master
+
+opa opa opa
